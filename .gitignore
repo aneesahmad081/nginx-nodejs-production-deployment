@@ -1,0 +1,14 @@
+# Node Modules
+app/node_modules/
+
+# SSL Certificates
+certbot/
+*.pem
+*.key
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
